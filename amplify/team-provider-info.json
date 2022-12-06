@@ -12,8 +12,11 @@
       "AmplifyAppId": "d1vzzy3snkvxog"
     },
     "categories": {
+      "api": {
+        "awsamplreactgraphql": {}
+      },
       "auth": {
-        "awsamplreactgraphql1f7f95a0": {}
+        "awsamplreactgraphqle5791ef5": {}
       }
     }
   }
